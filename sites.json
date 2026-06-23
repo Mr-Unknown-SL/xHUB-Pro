@@ -1,950 +1,287 @@
 [
   {
-    "site_name": "Pornhub",
-    "link": "https://www.pornhub.com"
-  },
-  {
-    "site_name": "XNXX",
-    "link": "https://www.xnxx.com"
-  },
-  {
-    "site_name": "XVideos",
-    "link": "https://www.xvideos.com"
-  },
-  {
     "site_name": "xHamster",
-    "link": "https://xhamster.com"
-  },
-  {
-    "site_name": "RedTube",
-    "link": "https://www.redtube.com"
-  },
-  {
-    "site_name": "YouPorn",
-    "link": "https://www.youporn.com"
-  },
-  {
-    "site_name": "Tube8",
-    "link": "https://www.tube8.com"
+    "link": "https://xhamster.com",
+    "reason": "Status code: 520"
   },
   {
     "site_name": "SpankBang",
-    "link": "https://spankbang.com"
-  },
-  {
-    "site_name": "Porn.com",
-    "link": "https://www.porn.com"
-  },
-  {
-    "site_name": "Beeg",
-    "link": "https://beeg.com"
+    "link": "https://spankbang.com",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "XTube",
-    "link": "https://www.xtube.com"
-  },
-  {
-    "site_name": "TXXX",
-    "link": "https://www.txxx.com"
-  },
-  {
-    "site_name": "PornOne",
-    "link": "https://pornone.com"
-  },
-  {
-    "site_name": "PornDig",
-    "link": "https://www.porndig.com"
-  },
-  {
-    "site_name": "PornDoe",
-    "link": "https://www.porndoe.com"
-  },
-  {
-    "site_name": "PornHat",
-    "link": "https://www.pornhat.com"
-  },
-  {
-    "site_name": "PornID",
-    "link": "https://www.pornid.xxx"
-  },
-  {
-    "site_name": "PornJam",
-    "link": "https://www.pornjam.com"
+    "link": "https://www.xtube.com",
+    "reason": "Status code: 406"
   },
   {
     "site_name": "PornKai",
-    "link": "https://www.pornkai.com"
-  },
-  {
-    "site_name": "PornMilo",
-    "link": "https://pornmilo.com"
-  },
-  {
-    "site_name": "PornNOD",
-    "link": "https://www.pornnod.com"
-  },
-  {
-    "site_name": "PornTrex",
-    "link": "https://www.porntrex.com"
-  },
-  {
-    "site_name": "PornTube",
-    "link": "https://www.porntube.com"
-  },
-  {
-    "site_name": "PornWhite",
-    "link": "https://www.pornwhite.com"
-  },
-  {
-    "site_name": "PornXn",
-    "link": "https://www.pornxn.com"
+    "link": "https://www.pornkai.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "PornXXX",
-    "link": "https://www.pornxxx.com"
-  },
-  {
-    "site_name": "Porzo",
-    "link": "https://www.porzo.com"
-  },
-  {
-    "site_name": "PussySpace",
-    "link": "https://www.pussyspace.com"
-  },
-  {
-    "site_name": "Qorno",
-    "link": "https://www.qorno.com"
-  },
-  {
-    "site_name": "SexVid",
-    "link": "https://www.sexvid.xxx"
-  },
-  {
-    "site_name": "SleazyNEasy",
-    "link": "https://www.sleazyneasy.com"
-  },
-  {
-    "site_name": "SunPorno",
-    "link": "https://www.sunporno.com"
-  },
-  {
-    "site_name": "Thumbzilla",
-    "link": "https://www.thumbzilla.com"
-  },
-  {
-    "site_name": "TitsBox",
-    "link": "https://www.titsbox.com"
-  },
-  {
-    "site_name": "TnaFlix",
-    "link": "https://www.tnaflix.com"
-  },
-  {
-    "site_name": "TubePornClassic",
-    "link": "https://www.tubepornclassic.com"
-  },
-  {
-    "site_name": "TubePornStars",
-    "link": "https://www.tubepornstars.com"
-  },
-  {
-    "site_name": "TubeSafari",
-    "link": "https://tubesafari.com"
+    "link": "https://www.pornxxx.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "TubeSpinTV",
-    "link": "https://www.tubespintv.com"
-  },
-  {
-    "site_name": "TubeWolf",
-    "link": "https://www.tubewolf.com"
-  },
-  {
-    "site_name": "Upornia",
-    "link": "https://upornia.com"
-  },
-  {
-    "site_name": "Veporn",
-    "link": "https://veporn.com"
-  },
-  {
-    "site_name": "ViperGirls",
-    "link": "https://vipergirls.to"
-  },
-  {
-    "site_name": "Vjav",
-    "link": "https://vjav.com"
-  },
-  {
-    "site_name": "VXXX",
-    "link": "https://vxxx.com"
-  },
-  {
-    "site_name": "Wankoz",
-    "link": "https://www.wankoz.com"
-  },
-  {
-    "site_name": "WinPorn",
-    "link": "https://www.winporn.com"
-  },
-  {
-    "site_name": "XBabe",
-    "link": "https://www.xbabe.com"
-  },
-  {
-    "site_name": "XCafe",
-    "link": "https://xcafe.com"
-  },
-  {
-    "site_name": "XCum",
-    "link": "https://xcum.com"
+    "link": "https://www.tubespintv.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "XFilms",
-    "link": "https://www.xfilms.tv"
-  },
-  {
-    "site_name": "XMilf",
-    "link": "https://xmilf.com"
-  },
-  {
-    "site_name": "Xozilla",
-    "link": "https://xozilla.com"
-  },
-  {
-    "site_name": "XXPee",
-    "link": "https://www.xxpee.com"
-  },
-  {
-    "site_name": "XXXBunker",
-    "link": "https://xxxbunker.com"
-  },
-  {
-    "site_name": "XXXDan",
-    "link": "https://xxxdan.com"
-  },
-  {
-    "site_name": "XXXFiles",
-    "link": "https://xxxfiles.com"
+    "link": "https://www.xfilms.tv",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "XXXity",
-    "link": "https://xxxity.com"
+    "link": "https://xxxity.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "XXXMax",
-    "link": "https://xxxmax.com"
+    "link": "https://xxxmax.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "XXXTube",
-    "link": "https://xxxtube.com"
+    "link": "https://xxxtube.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "XXXVideo",
-    "link": "https://xxxvideo.best"
-  },
-  {
-    "site_name": "YesPornPlease",
-    "link": "https://yespornplease.com"
-  },
-  {
-    "site_name": "YepTube",
-    "link": "https://www.yeptube.com"
-  },
-  {
-    "site_name": "YourLust",
-    "link": "https://www.yourlust.com"
-  },
-  {
-    "site_name": "ZBPorn",
-    "link": "https://zbporn.com"
-  },
-  {
-    "site_name": "ZedPorn",
-    "link": "https://zedporn.com"
-  },
-  {
-    "site_name": "ZenPorn",
-    "link": "https://zenporn.com"
+    "link": "https://xxxvideo.best",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "ZooPorn",
-    "link": "https://zooporn.com"
+    "link": "https://zooporn.com",
+    "reason": "Status code: 404"
   },
   {
     "site_name": "Zuzandra",
-    "link": "https://zuzandra.com"
-  },
-  {
-    "site_name": "ZZTube",
-    "link": "https://zztube.com"
-  },
-  {
-    "site_name": "4Tube",
-    "link": "https://www.4tube.com"
+    "link": "https://zuzandra.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "89.com",
-    "link": "https://www.89.com"
+    "link": "https://www.89.com",
+    "reason": "Status code: 410"
   },
   {
     "site_name": "AhMature",
-    "link": "https://ahmature.com"
-  },
-  {
-    "site_name": "AhMe",
-    "link": "https://www.ah-me.com"
-  },
-  {
-    "site_name": "Alphaporno",
-    "link": "https://www.alphaporno.com"
-  },
-  {
-    "site_name": "AnyPorn",
-    "link": "https://anyporn.com"
-  },
-  {
-    "site_name": "AnySex",
-    "link": "https://anysex.com"
-  },
-  {
-    "site_name": "AnyXXX",
-    "link": "https://anyxxx.com"
-  },
-  {
-    "site_name": "BestPorn",
-    "link": "https://bestporn.com"
+    "link": "https://ahmature.com",
+    "reason": "Status code: 400"
   },
   {
     "site_name": "BestXXX",
-    "link": "https://bestxxx.com"
-  },
-  {
-    "site_name": "BigFuck",
-    "link": "https://bigfuck.tv"
+    "link": "https://bestxxx.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "BonerTube",
-    "link": "https://bonertube.com"
-  },
-  {
-    "site_name": "BooLoo",
-    "link": "https://booloo.com"
-  },
-  {
-    "site_name": "BravoTube",
-    "link": "https://www.bravotube.net"
-  },
-  {
-    "site_name": "CaramelTube",
-    "link": "https://www.carameltube.com"
-  },
-  {
-    "site_name": "ChickPassNetwork",
-    "link": "https://chickpassnetwork.com"
-  },
-  {
-    "site_name": "CrocTube",
-    "link": "https://croctube.com"
-  },
-  {
-    "site_name": "CumLouder",
-    "link": "https://www.cumlouder.com"
-  },
-  {
-    "site_name": "DRTuber",
-    "link": "https://www.drtuber.com"
-  },
-  {
-    "site_name": "DesiPorn",
-    "link": "https://desiporn.tube"
-  },
-  {
-    "site_name": "Eporner",
-    "link": "https://www.eporner.com"
-  },
-  {
-    "site_name": "Eroxia",
-    "link": "https://www.eroxia.com"
-  },
-  {
-    "site_name": "Faapy",
-    "link": "https://faapy.com"
-  },
-  {
-    "site_name": "FapVid",
-    "link": "https://fapvid.com"
-  },
-  {
-    "site_name": "FavePorn",
-    "link": "https://faveporn.com"
-  },
-  {
-    "site_name": "FlyFlv",
-    "link": "https://www.flyflv.com"
-  },
-  {
-    "site_name": "FreePorn",
-    "link": "https://www.freeporn.com"
-  },
-  {
-    "site_name": "FreePorn8",
-    "link": "https://freeporn8.com"
+    "link": "https://bonertube.com",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "FreePornVideos",
-    "link": "https://freepornvideos.com"
+    "link": "https://freepornvideos.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "FreePornVS",
-    "link": "https://freepornvs.com"
-  },
-  {
-    "site_name": "FreeSexVideo",
-    "link": "https://freesexvideo.com"
-  },
-  {
-    "site_name": "Fux",
-    "link": "https://www.fux.com"
-  },
-  {
-    "site_name": "GayMaleTube",
-    "link": "https://www.gaymaletube.com"
-  },
-  {
-    "site_name": "GayTube",
-    "link": "https://www.gaytube.com"
-  },
-  {
-    "site_name": "GoFucker",
-    "link": "https://gofucker.com"
-  },
-  {
-    "site_name": "GoXXXVideos",
-    "link": "https://goxxxvideos.com"
-  },
-  {
-    "site_name": "H2Porn",
-    "link": "https://h2porn.com"
+    "link": "https://freepornvs.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "HDPorn",
-    "link": "https://hdporn.com"
-  },
-  {
-    "site_name": "HDPornMax",
-    "link": "https://hdpornmax.com"
-  },
-  {
-    "site_name": "HDPornVideo",
-    "link": "https://hdpornvideo.xxx"
-  },
-  {
-    "site_name": "HDZog",
-    "link": "https://hdzog.com"
+    "link": "https://hdporn.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "HamsterPorn",
-    "link": "https://hamsterporn.com"
-  },
-  {
-    "site_name": "HardSexTube",
-    "link": "https://www.hardsextube.com"
-  },
-  {
-    "site_name": "HellPorno",
-    "link": "https://hellporno.com"
-  },
-  {
-    "site_name": "HomeSex",
-    "link": "https://homesex.com"
-  },
-  {
-    "site_name": "HotMovs",
-    "link": "https://hotmovs.com"
+    "link": "https://hamsterporn.com",
+    "reason": "Status code: 406"
   },
   {
     "site_name": "HotSexTube",
-    "link": "https://hotsextube.tv"
-  },
-  {
-    "site_name": "IcePorn",
-    "link": "https://iceporn.com"
-  },
-  {
-    "site_name": "iXXX",
-    "link": "https://www.ixxx.com"
-  },
-  {
-    "site_name": "JapanWhores",
-    "link": "https://japanwhores.com"
-  },
-  {
-    "site_name": "JavBangers",
-    "link": "https://javbangers.com"
-  },
-  {
-    "site_name": "JavHD",
-    "link": "https://javhd.com"
+    "link": "https://hotsextube.tv",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "JavHub",
-    "link": "https://javhub.net"
-  },
-  {
-    "site_name": "JavQD",
-    "link": "https://javqd.com"
-  },
-  {
-    "site_name": "JizzBunker",
-    "link": "https://jizzbunker.com"
-  },
-  {
-    "site_name": "KatesTube",
-    "link": "https://www.katestube.com"
-  },
-  {
-    "site_name": "KeezMovies",
-    "link": "https://www.keezmovies.com"
+    "link": "https://javhub.net",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "KingTube",
-    "link": "https://www.kingtube.com"
+    "link": "https://www.kingtube.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "KissPornTube",
-    "link": "https://www.kissporntube.com"
-  },
-  {
-    "site_name": "LaidHub",
-    "link": "https://laidhub.com"
-  },
-  {
-    "site_name": "LobsterTube",
-    "link": "https://www.lobstertube.com"
-  },
-  {
-    "site_name": "MatureTube",
-    "link": "https://www.maturetube.com"
-  },
-  {
-    "site_name": "MegaTube",
-    "link": "https://www.megatube.xxx"
-  },
-  {
-    "site_name": "MilfFox",
-    "link": "https://www.milffox.com"
-  },
-  {
-    "site_name": "MilfTube",
-    "link": "https://milftube.com"
-  },
-  {
-    "site_name": "MofoSex",
-    "link": "https://www.mofosex.com"
-  },
-  {
-    "site_name": "MyLust",
-    "link": "https://mylust.com"
-  },
-  {
-    "site_name": "NastyVideoTube",
-    "link": "https://www.nastyvideotube.com"
-  },
-  {
-    "site_name": "NuVid",
-    "link": "https://www.nuvid.com"
-  },
-  {
-    "site_name": "OK.XXX",
-    "link": "https://ok.xxx"
-  },
-  {
-    "site_name": "PervClips",
-    "link": "https://pervclips.com"
+    "link": "https://www.kissporntube.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "PinkRod",
-    "link": "https://pinkrod.com"
-  },
-  {
-    "site_name": "PornDune",
-    "link": "https://porndune.com"
+    "link": "https://pinkrod.com",
+    "reason": "Status code: 436"
   },
   {
     "site_name": "PornDuneTube",
-    "link": "https://porndunetube.com"
-  },
-  {
-    "site_name": "PornFlip",
-    "link": "https://pornflip.com"
-  },
-  {
-    "site_name": "PornGem",
-    "link": "https://porngem.com"
-  },
-  {
-    "site_name": "PornGo",
-    "link": "https://porngo.com"
-  },
-  {
-    "site_name": "PornLib",
-    "link": "https://www.pornlib.com"
+    "link": "https://porndunetube.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "PornLust",
-    "link": "https://pornlust.com"
-  },
-  {
-    "site_name": "PornRewind",
-    "link": "https://pornrewind.com"
-  },
-  {
-    "site_name": "PornRox",
-    "link": "https://pornrox.com"
-  },
-  {
-    "site_name": "PornTop",
-    "link": "https://porntop.com"
-  },
-  {
-    "site_name": "PornWatch",
-    "link": "https://pornwatch.com"
+    "link": "https://pornlust.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "PornWild",
-    "link": "https://pornwild.com"
+    "link": "https://pornwild.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "PornoMovies",
-    "link": "https://www.pornomovies.com"
+    "link": "https://www.pornomovies.com",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "PornoXO",
-    "link": "https://www.pornoxo.com"
+    "link": "https://www.pornoxo.com",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "PornoJam",
-    "link": "https://pornojam.com"
+    "link": "https://pornojam.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "PornoFlow",
-    "link": "https://pornoflow.com"
+    "link": "https://pornoflow.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "PornoGratis",
-    "link": "https://pornogratis.com"
-  },
-  {
-    "site_name": "PornoVideosHub",
-    "link": "https://pornovideoshub.com"
-  },
-  {
-    "site_name": "Propeller",
-    "link": "https://propeller.com"
+    "link": "https://pornogratis.com",
+    "reason": "Status code: 406"
   },
   {
     "site_name": "RacyAngel",
-    "link": "https://racyangel.com"
-  },
-  {
-    "site_name": "Rat.XXX",
-    "link": "https://rat.xxx"
+    "link": "https://racyangel.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "RedPorn",
-    "link": "https://redporn.com"
-  },
-  {
-    "site_name": "Sex3",
-    "link": "https://sex3.com"
-  },
-  {
-    "site_name": "Sex4k",
-    "link": "https://sex4k.com"
+    "link": "https://redporn.com",
+    "reason": "Status code: 406"
   },
   {
     "site_name": "SexTube",
-    "link": "https://sextube.com"
+    "link": "https://sextube.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "SexTubeDaily",
-    "link": "https://sextubedaily.com"
+    "link": "https://sextubedaily.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "SexTubeHD",
-    "link": "https://sextubehd.xxx"
-  },
-  {
-    "site_name": "Sexu",
-    "link": "https://sexu.com"
-  },
-  {
-    "site_name": "SexVidXXX",
-    "link": "https://sexvid.xxx"
+    "link": "https://sextubehd.xxx",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "ShareVideos",
-    "link": "https://sharevideos.com"
+    "link": "https://sharevideos.com",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "SmuTubes",
-    "link": "https://smutubes.com"
-  },
-  {
-    "site_name": "SpicyTranny",
-    "link": "https://www.spicytranny.com"
-  },
-  {
-    "site_name": "StileProject",
-    "link": "https://www.stileproject.com"
+    "link": "https://smutubes.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "StreamPorn",
-    "link": "https://streamporn.com"
-  },
-  {
-    "site_name": "StreamSex",
-    "link": "https://streamsex.com"
+    "link": "https://streamporn.com",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "SunPorn",
-    "link": "https://sunporn.com"
-  },
-  {
-    "site_name": "SwapSmut",
-    "link": "https://swapsmut.com"
-  },
-  {
-    "site_name": "TastyBlacks",
-    "link": "https://tastyblacks.com"
-  },
-  {
-    "site_name": "ThePorn",
-    "link": "https://theporn.com"
-  },
-  {
-    "site_name": "ThePornDude",
-    "link": "https://theporndude.com"
+    "link": "https://sunporn.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "ThePornMap",
-    "link": "https://thepornmap.com"
-  },
-  {
-    "site_name": "Tiava",
-    "link": "https://www.tiava.com"
-  },
-  {
-    "site_name": "TonicMovies",
-    "link": "https://www.tonicmovies.com"
+    "link": "https://thepornmap.com",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "TopPorn",
-    "link": "https://topporn.com"
-  },
-  {
-    "site_name": "TubeAdultMovies",
-    "link": "https://tubeadultmovies.com"
-  },
-  {
-    "site_name": "TubeBDSM",
-    "link": "https://tubebdsm.com"
-  },
-  {
-    "site_name": "TubeDupe",
-    "link": "https://tubedupe.com"
-  },
-  {
-    "site_name": "TubeForWork",
-    "link": "https://tubeforwork.com"
-  },
-  {
-    "site_name": "TubeGalore",
-    "link": "https://www.tubegalore.com"
-  },
-  {
-    "site_name": "TubeGals",
-    "link": "https://tubegals.com"
-  },
-  {
-    "site_name": "TubeKitty",
-    "link": "https://www.tubekitty.com"
-  },
-  {
-    "site_name": "TubePleasure",
-    "link": "https://www.tubepleasure.com"
-  },
-  {
-    "site_name": "TubePornFilm",
-    "link": "https://www.tubepornfilm.com"
+    "link": "https://topporn.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "TubePornKiss",
-    "link": "https://www.tubepornkiss.com"
-  },
-  {
-    "site_name": "TubeReserve",
-    "link": "https://www.tubereserve.com"
+    "link": "https://www.tubepornkiss.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "TubeRoyalPorn",
-    "link": "https://www.tuberoyalporn.com"
-  },
-  {
-    "site_name": "TubeSplash",
-    "link": "https://www.tubesplash.com"
-  },
-  {
-    "site_name": "TubeVector",
-    "link": "https://www.tubevector.com"
-  },
-  {
-    "site_name": "TubeXClips",
-    "link": "https://www.tubexclips.com"
-  },
-  {
-    "site_name": "TubeZaur",
-    "link": "https://www.tubezaur.com"
-  },
-  {
-    "site_name": "Tuboff",
-    "link": "https://www.tuboff.com"
+    "link": "https://www.tuberoyalporn.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "Tubsexer",
-    "link": "https://tubsexer.com"
+    "link": "https://tubsexer.com",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "Tubuz",
-    "link": "https://tubuz.com"
-  },
-  {
-    "site_name": "TugPass",
-    "link": "https://tugpass.com"
+    "link": "https://tubuz.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "UnseenPorn",
-    "link": "https://unseenporn.com"
-  },
-  {
-    "site_name": "Upornia",
-    "link": "https://www.upornia.com"
-  },
-  {
-    "site_name": "VideoOne",
-    "link": "https://www.video-one.com"
-  },
-  {
-    "site_name": "VideoSection",
-    "link": "https://videosection.com"
+    "link": "https://unseenporn.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "VideoSexArchive",
-    "link": "https://www.videosexarchive.com"
+    "link": "https://www.videosexarchive.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "Vidz78",
-    "link": "https://vidz78.com"
-  },
-  {
-    "site_name": "VikiPorn",
-    "link": "https://www.vikiporn.com"
+    "link": "https://vidz78.com",
+    "reason": "Status code: 404"
   },
   {
     "site_name": "Vintagetube",
-    "link": "https://www.vintagetube.xxx"
-  },
-  {
-    "site_name": "VipTube",
-    "link": "https://www.viptube.com"
-  },
-  {
-    "site_name": "VivaTube",
-    "link": "https://www.vivatube.com"
-  },
-  {
-    "site_name": "VoyeurHit",
-    "link": "https://voyeurhit.com"
-  },
-  {
-    "site_name": "WankTube",
-    "link": "https://wanktube.com"
-  },
-  {
-    "site_name": "WetPlace",
-    "link": "https://www.wetplace.com"
-  },
-  {
-    "site_name": "WinPorn",
-    "link": "https://www.winporn.com"
-  },
-  {
-    "site_name": "XBabe",
-    "link": "https://www.xbabe.com"
-  },
-  {
-    "site_name": "XCum",
-    "link": "https://xcum.com"
-  },
-  {
-    "site_name": "XDump",
-    "link": "https://xdump.com"
-  },
-  {
-    "site_name": "XGrannyTube",
-    "link": "https://xgrannytube.com"
-  },
-  {
-    "site_name": "XMomTube",
-    "link": "https://xmomtube.com"
-  },
-  {
-    "site_name": "XoZilla",
-    "link": "https://xozilla.com"
-  },
-  {
-    "site_name": "XShareBox",
-    "link": "https://xsharebox.com"
-  },
-  {
-    "site_name": "XVideo",
-    "link": "https://www.xvideo.com"
+    "link": "https://www.vintagetube.xxx",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "XXXPorn",
-    "link": "https://xxxporn.com"
+    "link": "https://xxxporn.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "XXXTube",
-    "link": "https://xxxtube.com"
+    "link": "https://xxxtube.com",
+    "reason": "Connection Error / Blocked"
   },
   {
     "site_name": "XXXVideo",
-    "link": "https://xxxvideo.best"
+    "link": "https://xxxvideo.best",
+    "reason": "Status code: 403"
   },
   {
     "site_name": "XxxVideos",
-    "link": "https://xxxvideos.com"
-  },
-  {
-    "site_name": "YepTube",
-    "link": "https://www.yeptube.com"
-  },
-  {
-    "site_name": "YourLust",
-    "link": "https://www.yourlust.com"
-  },
-  {
-    "site_name": "ZBPorn",
-    "link": "https://zbporn.com"
-  },
-  {
-    "site_name": "ZedPorn",
-    "link": "https://zedporn.com"
-  },
-  {
-    "site_name": "ZenPorn",
-    "link": "https://zenporn.com"
+    "link": "https://xxxvideos.com",
+    "reason": "Connection Error / Blocked"
   }
-    ]
+]
